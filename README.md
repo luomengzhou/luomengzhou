@@ -18,4 +18,6 @@ Columbia MSBA (Feb 2027), looking for **quantitative research** roles. I work on
 
 Python (pandas, NumPy, SciPy, statsmodels, PyTorch) · alphalens / empyrical / quantstats · options pricing and volatility · walk-forward and out-of-sample testing · Streamlit
 
-<!-- TODO: add LinkedIn and email -->
+#### Contact
+
+📧 [lz3064@columbia.edu](mailto:lz3064@columbia.edu) · 💼 [LinkedIn](https://www.linkedin.com/in/luomengzhou/)
